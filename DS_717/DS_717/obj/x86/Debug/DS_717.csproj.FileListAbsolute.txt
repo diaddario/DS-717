@@ -1,0 +1,13 @@
+C:\Users\Alex\DS-717\DS_717\DS_717\bin\Debug\DS_717.exe
+C:\Users\Alex\DS-717\DS_717\DS_717\bin\Debug\DS_717.pdb
+C:\Users\Alex\DS-717\DS_717\DS_717\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\DS-717\DS_717\DS_717\obj\x86\Debug\MainWindow.baml
+C:\Users\Alex\DS-717\DS_717\DS_717\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alex\DS-717\DS_717\DS_717\obj\x86\Debug\App.g.cs
+C:\Users\Alex\DS-717\DS_717\DS_717\obj\x86\Debug\DS_717_MarkupCompile.cache
+C:\Users\Alex\DS-717\DS_717\DS_717\obj\x86\Debug\DS_717.g.resources
+C:\Users\Alex\DS-717\DS_717\DS_717\obj\x86\Debug\DS_717.Properties.Resources.resources
+C:\Users\Alex\DS-717\DS_717\DS_717\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Alex\DS-717\DS_717\DS_717\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Alex\DS-717\DS_717\DS_717\obj\x86\Debug\DS_717.exe
+C:\Users\Alex\DS-717\DS_717\DS_717\obj\x86\Debug\DS_717.pdb
