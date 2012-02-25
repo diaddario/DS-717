@@ -1,1 +1,4 @@
-sdjkhfkjbcxv
+#ifndef __DS-717
+#define __DS_717
+char * str = "Hello GIT";
+#endif //__DS_717
